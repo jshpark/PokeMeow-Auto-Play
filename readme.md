@@ -1,8 +1,8 @@
-# A bot that will automatically play PokeMeow
+# A bot that will automatically play PokeMeow on Discord
 
 # Description
 
-* This is a bot that will autoplay and catch / fish / battle for you! It can also automatically solve captcha. You can also command the bot with a different account to trade / access inventory / start / stop. 
+* This is an automatic bot that will autoplay and catch / fish / battle for you! It can also automatically solve captcha. You can also command the bot with a different account to trade / access inventory / start / stop. 
 * Please see the images folder to view pictures of how bot runs
 * This is NOT a browser bot. Only a command window / command prompt needs to be open to run the bot. 
 
