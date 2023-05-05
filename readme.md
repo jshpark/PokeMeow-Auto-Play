@@ -10,7 +10,7 @@
 
 * $5
 * The auto-captcha is required and costs money. The service is $1 per 1000 captchas. https://2captcha.com/ . $3 worth lasts a long time.
-* Please add ```meowmeowp#3444``` to discuss how to purchase and get access to the bot
+* Please add ```sars#3888``` to discuss how to purchase and get access to the bot
 * Also add me if you have any questions or even want more proof that the bot works! 
 * The bot is in private github repository that you will gain access to after payment. You can clone / download.
 
