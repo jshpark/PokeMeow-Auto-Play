@@ -1,4 +1,5 @@
 # A bot that will automatically play PokeMeow on Discord
+# This bot is available unless this README says otherwise
 
 # Description
 
@@ -9,8 +10,8 @@
 # Sorry! The bot is not free
 
 * $5
-* The auto-captcha is required and costs money. The service is $1 per 1000 captchas. https://2captcha.com/ . $3 worth lasts a long time.
-* Please add ```sars#3888``` to discuss how to purchase and get access to the bot
+* The auto-captcha is required and costs money. The service is $1 per 1000 captchas. https://2captcha.com/ . $3 worth lasts months.
+* Please add ```park#5639``` to discuss how to purchase and get access to the bot
 * Also add me if you have any questions or even want more proof that the bot works! 
 * The bot is in private github repository that you will gain access to after payment. You can clone / download.
 
